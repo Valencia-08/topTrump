@@ -4,7 +4,7 @@ import pygame
 import sys
 import tkinter as tk
 
-#pygame
+#pygame top trump game - remove the comments to run
 """
 # Initialize Pygame
 pygame.init()
@@ -145,7 +145,7 @@ def play_game():
 # Start the game
 play_game()
 """
-#basic terminal game
+#basic terminal game top trump game - remove the comments to run
 """
 def get_random_pokemon():
     pokemon_number = random.randint(1, 151)
@@ -231,7 +231,7 @@ def get_stat_name(stat_choice):
 if __name__ == "__main__":
     run()
 """
-#tkinter game
+#tkinter game top trump game - remove the comments to run
 '''
 def play_game():
     def choose_stat():
